@@ -1,2 +1,2 @@
 # disqusjs-proxy
-The proxy for disqusjs
+The proxy for disqusjs.
